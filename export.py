@@ -1,5 +1,5 @@
 import gspread
-from oauth2client.service_account import ServiceAccountCredentialss
+from oauth2client.service_account import ServiceAccountCredentials
 import sys
 
 #jsonファイルを使って認証情報を取得
